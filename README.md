@@ -1,2 +1,2 @@
-# [https://stephdeck.github.io/me/]
+# stephdeck.github.io/me/
 Personal website
